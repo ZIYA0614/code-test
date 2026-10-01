@@ -8,3 +8,6 @@ def lotto(a):
     print("당첨")
   else:
     print(f"꽝 당첨번호는{win_num}입니다.")
+
+def feature2(x):
+    return x * x
