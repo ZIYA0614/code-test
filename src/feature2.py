@@ -3,4 +3,4 @@ def feature2(x):
   print(x*x)
   print("hello")
   print("wowwow")
-  return x*x
+  return x * x
